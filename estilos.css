@@ -1,0 +1,33 @@
+
+body {
+background-color: lightblue;
+font-family: Times New Roman, sans-serif;
+}
+#titulo {
+color: darkblue;
+text-align: center;
+}
+.texto {
+font-size: 18px;
+color: #333333;
+}
+img {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+
+.caja{
+background-color: white;
+margin: 20px;
+padding: 10px;
+border: 2px solid black;
+}
+.seccion {
+    background-color: #ffffff;
+    border: 3px solid #0044cc;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
